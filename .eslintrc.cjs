@@ -7,7 +7,7 @@ module.exports = {
     "plugin:react-hooks/recommended",
   ],
   parser: "@typescript-eslint/parser",
-  parserOptions: {ecmaVersion: "latest", sourceType: "module"},
+  parserOptions: {ecmaVersmion: "latest", sourceType: "module"},
   // plugins: ['react-refresh'],
   rules: {
     // 'react-refresh/only-export-components': 'warn',
